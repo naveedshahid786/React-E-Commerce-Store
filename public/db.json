@@ -1,0 +1,88 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 18644119330491310,
+        "title": "Red Air Jordan",
+        "description": "Unpaired Red Air Jordan 12",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 10
+        
+      },
+  
+      {
+        "id": 2,
+        "sku": 11854078013954528,
+        "title": "Blue/Black Jordan",
+        "description": "Blue and Black Air Jordan 1",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9
+      },
+  
+      {
+        "id": 3,
+        "sku": 876661122392077,
+        "title": "Red Nike Sneaker",
+        "description": "Unpaired Red Nike Sneaker",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9
+      },
+  
+      {
+        "id": 4,
+        "sku": 9197907543445677,
+        "title": "Orange/White Nike",
+        "description": "Unpaired Orange and White NIke AIr Huarche",
+        "availableSizes": ["XL"],
+        "price": 25.9
+      },
+  
+      {
+        "id": 5,
+        "sku": 10547961582846888,
+        "title": "Brown/White Nike",
+        "description": "Brown and White Nike Air Max",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 10.9
+      },
+  
+      {
+        "id": 6,
+        "sku": 6090484789343891,
+        "title": "White Nike Running",
+        "description": "Nike Shoes",
+        "availableSizes": ["XL", "XXL"],
+        "price": 49.9
+      },
+  
+      {
+        "id": 7,
+        "sku": 18532669286405344,
+        "title": "Nike Black/White",
+        "description": "Balck and White New Balance Sneaker",
+        "availableSizes": ["S"],
+        "style": "Preto com listras brancas",
+        "price": 22.5
+      },
+  
+      {
+        "id": 8,
+        "sku": 5619496040738316,
+        "title": "Brown Lace Up",
+        "description": "Brown and White Lac-up Boot",
+        "availableSizes": ["XL"],
+        "style": "Azul escuro",
+        "price": 18.7
+      },
+      
+      {
+        "id": 9,
+        "sku": 11600983276356165,
+        "title": "Addidas Athlatic",
+        "description": "Addidas Blue, White, Pink",
+        "availableSizes": ["L", "XL"],
+        "price": 134.9
+      }
+    ]
+  }
+  
