@@ -72,7 +72,18 @@ class App extends Component {
 
     handleRemoveFromCart = (e, product) => {
       this.setState(state => {
-        const cartItems = state.cartItems.filter(a => a.id !== product.id);
+        let cartItems = state.cartItems
+        let index;
+        let item = state.cartItems.find((a, i) => {
+          index = i
+          return a.id === product.id}
+          );
+        if (item.count > 1) {        
+          cartItems[index].count = cartItems[index].count - 1
+        } else {
+          cartItems = cartItems.filter(a => a.id !== product.id)
+        }
+ 
         localStorage.setItem("cartItems", JSON.stringify(cartItems));
         return { cartItems: cartItems };
       });
