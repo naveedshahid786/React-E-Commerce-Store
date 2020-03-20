@@ -1,6 +1,6 @@
 # React E-Commerce Shopping Application with Bootstrap 4, JSON Server, Rest API
-<img src="https://imgur.com/dHCRAdx" alt="project preview"/>
-
+https://imgur.com/D1HY0NX
+<img src="https://https://imgur.com/D1HY0NX" alt="project preview"/>
 ### Install
 ###### $ Download or clone from https://github.com/naveedshahid786/React-E-Commerce-Store.git
 $ yarn
