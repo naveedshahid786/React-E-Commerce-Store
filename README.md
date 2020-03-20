@@ -10,7 +10,7 @@ $ yarn
 $ npm install -g json-server
 
 ###### Then
-$ json-server public/db.json --port 8000
+$ npx json-server --port 8000 --watch db.json
 
 
 ### Run App
